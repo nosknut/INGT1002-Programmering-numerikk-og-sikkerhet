@@ -1,0 +1,5 @@
+taskID,type,data
+2a,MultipleChoice,"{""question_text"": ""Velg et alternativ fra tabellen ovenfor:"", ""alternatives"": [""1"", ""2"", ""3"", ""4""], ""student_answer"": ""1""}"
+2b,MultipleChoice,"{""question_text"": ""Velg et alternativ fra tabellen ovenfor:"", ""alternatives"": [""1"", ""2"", ""3"", ""4""], ""student_answer"": ""1""}"
+2f,MultipleChoice,"{""question_text"": ""Er den numeriske metoden stabil?"", ""alternatives"": [""Ja"", ""Nei""], ""student_answer"": ""Ja""}"
+3c,MultipleChoice,"{""question_text"": ""I hvilket tilfelle ser metoden ut til \u00e5 ikke konvergere?"", ""alternatives"": [""1"", ""2"", ""3""], ""student_answer"": ""3""}"
